@@ -57,6 +57,10 @@ During training, synthetic face images are generated and saved after selected ep
 
 ![Sample Output](generate_face/epochs0batch_1.jpg) <!-- Replace with actual image link if hosted -->
 
+![Screenshot (194)](https://github.com/user-attachments/assets/fc824c78-667b-4dd4-9570-957220789003)
+
+![Screenshot (193)](https://github.com/user-attachments/assets/bfaa38de-f513-4418-902c-5cdb0e9cfd4a)
+
 ---
 
 ## 🔍 Key Functions
